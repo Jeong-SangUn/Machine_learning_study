@@ -1,2 +1,9 @@
 # IPython notebook
 jupyter/.ipynb_checkpoints/
+
+
+# Big Data
+jupyter/data/cats_and_dogs_small
+jupyter/data/dogs-vs-cats
+jupyter/data/movielens
+jupyter/cats_and_dogs_small_1.h5
